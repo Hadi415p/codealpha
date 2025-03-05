@@ -1,2 +1,2 @@
 # codealpha
-task 1 (Hangman Gmae)
+task 1 (Hangman Game)
