@@ -1,2 +1,2 @@
 # codealpha
-new repo
+task 1 (Hangman Gmae)
